@@ -1,7 +1,8 @@
 <h1 align="center">🧃 Tienda de Batidos</h1>
 <p align="center">
   <a href="https://github.com/Codemikey21/tienda-batidos">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2FC14F&center=true&vCenter=true&width=500&lines=Proyecto+Web+Frontend+con+HTML%2C+CSS+y+JS;Tienda+online+de+batidos+100%25+interactiva;Diseño+responsive+y+l%C3%B3gica+en+JavaScript+vanilla" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2FC14F&center=true&vCenter=true&width=500&lines=Proyecto+Frontend+Web;Hecho+con+HTML,+CSS+y+JavaScript;Tienda+de+batidos+interactiva;Diseño+responsivo+y+dinámico" alt="Typing SVG" />
+
   </a>
 </p>
 
