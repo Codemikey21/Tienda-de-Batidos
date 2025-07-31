@@ -44,12 +44,12 @@
 
 ## 📂 Estructura del Proyecto
 
-📁 tienda-batidos/
-├── index.html
-├── css/
-│ └── style.css
-├── js/
-│ └── script.js
-├── assets/
-│ └── imágenes de batidos, íconos, etc.
+📁 tienda-batidos/<br>
+├── index.html<br>
+├── css/<br>
+│ └── style.css<br>
+├── js/<br>
+│ └── script.js<br>
+├── assets/<br>
+│ └── imágenes de batidos, íconos, etc.<br>
 └── README.md
