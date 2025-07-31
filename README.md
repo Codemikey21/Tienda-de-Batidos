@@ -16,8 +16,8 @@
 ## 📸 Capturas
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Codemikey21/tienda-batidos/main/screenshots/inicio.png" width="350"/>
-  <img src="https://raw.githubusercontent.com/Codemikey21/tienda-batidos/main/screenshots/carrito.png" width="350"/>
+  <img src="https://raw.githubusercontent.com/Codemikey21/Tienda-de-Batidos/main/screenshots/inicio.png" width="350"/>
+  <img src="https://raw.githubusercontent.com/Codemikey21/Tienda-de-Batidos/main/screenshots/carrito.png" width="350"/>
 </p>
 
 ---
