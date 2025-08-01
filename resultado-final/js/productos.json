@@ -1,0 +1,167 @@
+[
+  {
+    "id": "agua-01",
+    "titulo": "Batido de Piña y Hierbabuena",
+    "imagen": "./img/agua/01.png",
+    "categoria": {
+      "nombre": "Jugos en Agua",
+      "id": "agua"
+    },
+    "descripcion": "Refrescante combinación tropical con notas de hierbabuena.",
+    "precio": 9500
+  },
+  {
+    "id": "agua-02",
+    "titulo": "Batido de Fresa y Limón",
+    "imagen": "./img/agua/02.png",
+    "categoria": {
+      "nombre": "Jugos en Agua",
+      "id": "agua"
+    },
+    "descripcion": "Ideal para días calurosos. Ligero y con un toque cítrico.",
+    "precio": 10500
+  },
+  {
+    "id": "agua-03",
+    "titulo": "Batido de Mango y Naranja",
+    "imagen": "./img/agua/03.png",
+    "categoria": {
+      "nombre": "Jugos en Agua",
+      "id": "agua"
+    },
+    "descripcion": "Sabores dulces y ácidos equilibrados en agua natural.",
+    "precio": 11000
+  },
+  {
+    "id": "agua-04",
+    "titulo": "Batido de Sandía y Menta",
+    "imagen": "./img/agua/04.png",
+    "categoria": {
+      "nombre": "Jugos en Agua",
+      "id": "agua"
+    },
+    "descripcion": "Hidratante y fresco, perfecto para revitalizar.",
+    "precio": 8900
+  },
+  {
+    "id": "agua-05",
+    "titulo": "Batido de Maracuyá y Papaya",
+    "imagen": "./img/agua/05.png",
+    "categoria": {
+      "nombre": "Jugos en Agua",
+      "id": "agua"
+    },
+    "descripcion": "Exótico y digestivo, con sabor suave y aromático.",
+    "precio": 9800
+  },
+  {
+    "id": "leche-01",
+    "titulo": "Batido de Banano y Avena",
+    "imagen": "./img/leche/01.png",
+    "categoria": {
+      "nombre": "Jugos en Leche",
+      "id": "leche"
+    },
+    "descripcion": "Cremoso y nutritivo, ideal para la mañana.",
+    "precio": 12000
+  },
+  {
+    "id": "leche-02",
+    "titulo": "Batido de Fresa con Leche",
+    "imagen": "./img/leche/02.png",
+    "categoria": {
+      "nombre": "Jugos en Leche",
+      "id": "leche"
+    },
+    "descripcion": "Clásico sabor dulce con fresas frescas.",
+    "precio": 13000
+  },
+  {
+    "id": "leche-03",
+    "titulo": "Batido de Melón y Leche",
+    "imagen": "./img/leche/03.png",
+    "categoria": {
+      "nombre": "Jugos en Leche",
+      "id": "leche"
+    },
+    "descripcion": "Dulce natural, textura suave y ligera.",
+    "precio": 11500
+  },
+  {
+    "id": "leche-04",
+    "titulo": "Batido de Mora y Leche",
+    "imagen": "./img/leche/04.png",
+    "categoria": {
+      "nombre": "Jugos en Leche",
+      "id": "leche"
+    },
+    "descripcion": "Toque ácido con dulzura cremosa.",
+    "precio": 14000
+  },
+  {
+    "id": "leche-05",
+    "titulo": "Batido de Mango y Leche",
+    "imagen": "./img/leche/05.png",
+    "categoria": {
+      "nombre": "Jugos en Leche",
+      "id": "leche"
+    },
+    "descripcion": "Tropical, suave y perfectamente equilibrado.",
+    "precio": 15000
+  },
+  {
+    "id": "suplemento-01",
+    "titulo": "Proteína Vainilla + Avena",
+    "imagen": "./img/suplemento/01.png",
+    "categoria": {
+      "nombre": "Con Suplemento",
+      "id": "suplemento"
+    },
+    "descripcion": "Energía y recuperación con sabor a vainilla.",
+    "precio": 18000
+  },
+  {
+    "id": "suplemento-02",
+    "titulo": "Proteína Chocolate + Banano",
+    "imagen": "./img/suplemento/02.png",
+    "categoria": {
+      "nombre": "Con Suplemento",
+      "id": "suplemento"
+    },
+    "descripcion": "Cremoso, potente y nutritivo.",
+    "precio": 17500
+  },
+  {
+    "id": "suplemento-03",
+    "titulo": "Proteína Fresa + Almendras",
+    "imagen": "./img/suplemento/03.png",
+    "categoria": {
+      "nombre": "Con Suplemento",
+      "id": "suplemento"
+    },
+    "descripcion": "Delicado, energético y alto en proteína.",
+    "precio": 19000
+  },
+  {
+    "id": "suplemento-04",
+    "titulo": "Proteína Natural + Frutas Mixtas",
+    "imagen": "./img/suplemento/04.png",
+    "categoria": {
+      "nombre": "Con Suplemento",
+      "id": "suplemento"
+    },
+    "descripcion": "Súper batido con mezcla de frutas y proteína.",
+    "precio": 20000
+  },
+  {
+    "id": "suplemento-05",
+    "titulo": "Proteína de Coco + Piña",
+    "imagen": "./img/suplemento/05.png",
+    "categoria": {
+      "nombre": "Con Suplemento",
+      "id": "suplemento"
+    },
+    "descripcion": "Estilo piña colada, ideal post-entreno.",
+    "precio": 16500
+  }
+]
